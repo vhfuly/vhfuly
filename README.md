@@ -7,5 +7,5 @@ No meu tempo livre gosto de estudar, jogar basquete , ouvir música e tocar bate
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hugo-fuly/)](https://www.linkedin.com/in/victor-hugo-fuly/) 
 
-[[P](https://victor-fuly.netlify.app/)](
+[Portfólio](https://victor-fuly.netlify.app/) 
 
