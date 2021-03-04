@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Sou Victor Hugo Fuly atualmente moro no Brasil (🇧🇷), Curitiba. Sou um amante de tecnologia principalmente web e mobile. As tecnologias que estudo e faço meus projetos são Javascript, React, NodeJS e React Native.
 
