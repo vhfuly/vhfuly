@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou Victor Hugo Fuly atualmente moro no Brasil (🇧🇷), São Paulo. Sou um amante de tecnologia principalmente web e mobile. As tecnologias que estudo e faço meus projetos são Javascript, React, NodeJS e React Native.
+Sou Victor Hugo Fuly atualmente moro no Brasil (🇧🇷), Curitiba. Sou um amante de tecnologia principalmente web e mobile. As tecnologias que estudo e faço meus projetos são Javascript, React, NodeJS e React Native.
 
 No meu tempo livre gosto de estudar, jogar basquete , ouvir música e tocar bateria.
 
