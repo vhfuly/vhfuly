@@ -16,6 +16,7 @@ No meu tempo livre gosto de estudar, jogar basquete , ouvir música e tocar bate
 <img src="https://img.shields.io/badge/ReactJs-2CFFEE?style=for-the-badge&logo=react&logoColor=000&labelColor=2CFFEE" />
 <img src="https://img.shields.io/badge/MongoDB-91FF49?style=for-the-badge&logo=mongodb&logoColor=5C290E&labelColor=91FF49" />
 <img src="https://img.shields.io/badge/NestJS-E3504E?style=for-the-badge&logo=nestjs&logoColor=fff&labelColor=E3504E" />
+<img src="https://img.shields.io/badge/Graphql-E46197?style=for-the-badge&logo=graphql&logoColor=fff&labelColor=E46197" />
 </div>
 
 <br/>
